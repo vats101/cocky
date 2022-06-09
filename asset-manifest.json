@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cocky/static/css/main.f2e69952.chunk.css",
+    "main.js": "/cocky/static/js/main.e8892d6e.chunk.js",
+    "main.js.map": "/cocky/static/js/main.e8892d6e.chunk.js.map",
+    "runtime-main.js": "/cocky/static/js/runtime-main.f455adbc.js",
+    "runtime-main.js.map": "/cocky/static/js/runtime-main.f455adbc.js.map",
+    "static/js/2.653d3665.chunk.js": "/cocky/static/js/2.653d3665.chunk.js",
+    "static/js/2.653d3665.chunk.js.map": "/cocky/static/js/2.653d3665.chunk.js.map",
+    "index.html": "/cocky/index.html",
+    "precache-manifest.670849214558624724571220bdae1247.js": "/cocky/precache-manifest.670849214558624724571220bdae1247.js",
+    "service-worker.js": "/cocky/service-worker.js",
+    "static/css/main.f2e69952.chunk.css.map": "/cocky/static/css/main.f2e69952.chunk.css.map",
+    "static/js/2.653d3665.chunk.js.LICENSE": "/cocky/static/js/2.653d3665.chunk.js.LICENSE",
+    "static/js/main.e8892d6e.chunk.js.LICENSE": "/cocky/static/js/main.e8892d6e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f455adbc.js",
+    "static/js/2.653d3665.chunk.js",
+    "static/css/main.f2e69952.chunk.css",
+    "static/js/main.e8892d6e.chunk.js"
+  ]
+}
